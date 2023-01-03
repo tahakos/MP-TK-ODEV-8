@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ArayuzDeneme"
+rootProject.name = "TKDeneme"
 include ':app'
